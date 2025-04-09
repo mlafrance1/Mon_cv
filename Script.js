@@ -1,0 +1,1 @@
+document.getElementById("table1.style.backgroundColor = "lightblue")
